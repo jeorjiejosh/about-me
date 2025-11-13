@@ -23,7 +23,6 @@ My goal is simple: keep learning, keep shipping quality work, and become the kin
 - Integrate test into CI/CD Pipelines for release cycles
 - Maintained and optimized test frameworks and coverage
 
-Maintained and optimized test frameworks to improve test coverage and reduce execution time.
 
 ### Test Design & Analysis
 - Writing structured, reproducible test cases  
