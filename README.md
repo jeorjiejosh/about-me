@@ -4,7 +4,7 @@
 Hey, I’m **Jie** — a QA Engineer who genuinely enjoys making things work better.  
 I’m the kind of person who notices small details but also likes seeing the bigger picture of how everything fits together.  
 
-I’ve loved QA ever since I graduated. Back in college, I tested our thesis project and was honestly fascinated by how something as simple as testing could be so enjoyable — finding issues, understanding how things break, and figuring out how to make them better. That experience made me realize it’s something I’d love to do as a career.
+I’ve loved QA ever since I graduated. Back in college, I tested our thesis project and was honestly fascinated by how something as simple as testing could be so enjoyable - finding issues, understanding how things break, and figuring out how to make them better. That experience made me realize it’s something I’d love to do as a career.
 
 Right now, I’m focused on growing my automation skills and improving my testing process.  
 My goal is simple: keep learning, keep shipping quality work, and become the kind of QA who helps a team move faster and smarter.   
