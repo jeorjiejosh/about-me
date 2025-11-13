@@ -10,7 +10,7 @@ Right now, I’m focused on growing my automation skills and improving my testin
 My goal is simple: keep learning, keep shipping quality work, and become the kind of QA who helps a team move faster and smarter.   
 
 ---
-[View my other GitHub](https://github.com/Jeorjie-Josh)
+[ 🌐 View my other GitHub](https://github.com/Jeorjie-Josh)
 
 ## Skills
 
@@ -74,5 +74,5 @@ My goal is simple: keep learning, keep shipping quality work, and become the kin
 
 ## CV  
 
-[![View my CV](https://img.shields.io/badge/📂_View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ukm2P0UxKB7puApAkUHy1jhvwqTUaIQv/view?usp=sharing)
+[![View my CV](https://drive.google.com/file/d/1RthFOrfCQVU4WcEUKRBxT3pQUbaDNT9H/view?usp=sharing)
 
