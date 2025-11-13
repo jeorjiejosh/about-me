@@ -10,7 +10,7 @@ Right now, I’m focused on growing my automation skills and improving my testin
 My goal is simple: keep learning, keep shipping quality work, and become the kind of QA who helps a team move faster and smarter.   
 
 ---
-
+[View my other GitHub](https://github.com/Jeorjie-Josh)
 
 ## Skills
 
