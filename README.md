@@ -74,5 +74,5 @@ My goal is simple: keep learning, keep shipping quality work, and become the kin
 
 ## CV  
 
-[![View my CV](https://drive.google.com/file/d/1RthFOrfCQVU4WcEUKRBxT3pQUbaDNT9H/view?usp=sharing)
+[📩View my CV](https://drive.google.com/file/d/1RthFOrfCQVU4WcEUKRBxT3pQUbaDNT9H/view?usp=sharing)
 
