@@ -48,7 +48,7 @@ Maintained and optimized test frameworks to improve test coverage and reduce exe
 |-----------|-------|
 | **Automation** | Playwright, Selenium, GitHub |
 | **Test Management** | Jira |
-| **Documentation** | Confluence, Notion, Sheets |
+| **Documentation** | Confluence, Notion, Sheets, Excel, RemedyForce |
 | **Collaboration** | Trello, Miro |
 | **Database** | Snowflake, SQL |
 | **Development** | HTML, CSS, JavaScript, C#, Java |
@@ -62,7 +62,7 @@ Maintained and optimized test frameworks to improve test coverage and reduce exe
  2018 – 2022 | **Cum Laude**  
 
 **Information Communication Technology** 
- 2016 – 2018 | *With Honors*  
+ 2016 – 2018 | **With Honors**  
 
 ---
 
@@ -75,5 +75,5 @@ Maintained and optimized test frameworks to improve test coverage and reduce exe
 
 ## CV  
 
-[![View Resume](https://img.shields.io/badge/📂_View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ukm2P0UxKB7puApAkUHy1jhvwqTUaIQv/view?usp=sharing)
+[![View my CV](https://img.shields.io/badge/📂_View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ukm2P0UxKB7puApAkUHy1jhvwqTUaIQv/view?usp=sharing)
 
