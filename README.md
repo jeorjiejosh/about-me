@@ -72,7 +72,11 @@ My goal is simple: keep learning, keep shipping quality work, and become the kin
 
 ---
 
+## Test Case Sample
+
+[TC Sample](https://docs.google.com/spreadsheets/d/1xBnd88pPY4Y5aDgj_rcmqHJNtOgmRq_aUsMvIL7tbQ0/edit?usp=sharing)
+
+
 ## CV  
 
 [📩View my CV](https://drive.google.com/file/d/1RthFOrfCQVU4WcEUKRBxT3pQUbaDNT9H/view?usp=sharing)
-
