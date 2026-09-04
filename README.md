@@ -1,4 +1,4 @@
-# 🕵🏻‍♀️ Portfolio
+# Portfolio
 ## About Me
 
 Hey, I'm **Jie** — a QA Engineer who genuinely enjoys making things work better.
