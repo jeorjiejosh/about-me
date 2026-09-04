@@ -1,12 +1,12 @@
 # 🕵🏻‍♀️ Portfolio
 ## About Me
 
-Hey, I’m **Jie** — a QA Engineer who genuinely enjoys making things work better.  
+Hey, I'm **Jie** — a QA Engineer who genuinely enjoys making things work better.
 
-I’ve loved QA ever since I graduated. Back in college, I tested our thesis project and was honestly fascinated by how something as simple as testing could be so enjoyable - finding issues, understanding how things break, and figuring out how to make them better. That experience made me realize it’s something I’d love to do as a career.
+I think QA is the role that fits how my mind naturally works. I've always been someone who notices the little details, questions whether something could work better, and enjoys figuring out why things break. There's something incredibly satisfying about finding edge cases, uncovering hidden bugs, and helping turn a good product into a great one. That's when I realized this wasn't just something I was good at—it was something I genuinely wanted to build a career around.
 
-Right now, I’m focused on growing my automation skills and improving my testing process.  
-My goal is simple: keep learning, keep shipping quality work, and become the kind of QA who helps a team move faster and smarter.   
+Right now, I'm focused on growing my automation skills and continuously improving the way I test. My goal is simple: keep learning, keep shipping quality work, and become the kind of QA engineer who helps teams move faster, build smarter, and release with confidence.
+ 
 
 ---
 [ 🌐 View my other GitHub](https://github.com/Jeorjie-Josh)
@@ -15,7 +15,7 @@ My goal is simple: keep learning, keep shipping quality work, and become the kin
 
 ### Manual Testing
 - Manual, functional,exploratory, and regression testing  
-- Basic API testing and validation  
+- API testing and validation  
 
 ### Automation Testing
 - Automation using Playwright & Selenium
@@ -45,6 +45,7 @@ My goal is simple: keep learning, keep shipping quality work, and become the kin
 | Category | Tools |
 |-----------|-------|
 | **Automation** | Playwright, Selenium, GitHub |
+| **API Testing** | Postman |
 | **Test Management** | Jira |
 | **Documentation** | Confluence, Notion, Sheets, Excel, RemedyForce |
 | **Collaboration** | Trello, Miro |
