@@ -1,7 +1,7 @@
 # Portfolio
 ## About Me
 
-Hey, I'm **Jie** — a QA Engineer who genuinely enjoys making things work better.
+Hey, I'm **Jie** — a Software QA Engineer who genuinely enjoys making things work better.
 
 I think QA is the role that fits how my mind naturally works. I've always been someone who notices the little details, questions whether something could work better, and enjoys figuring out why things break. There's something incredibly satisfying about finding edge cases, uncovering hidden bugs, and helping turn a good product into a great one. That's when I realized this wasn't just something I was good at—it was something I genuinely wanted to build a career around.
 
